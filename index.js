@@ -19,11 +19,7 @@ function display(val){
     return y
 
 }
-function clearscreen(){
 
-    document.getElementById('result').value = ''
-
-}
 function clearScreen(){
 
     document.getElementById('result').value = ''
